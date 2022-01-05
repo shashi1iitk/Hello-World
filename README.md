@@ -1,3 +1,3 @@
 # Hello-World
-its my first project
-hello, icommit changes.
+It's my first project. 
+Hello, i commit some changes.

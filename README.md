@@ -6,10 +6,7 @@ A new change in my mind.
 short change
 This one is another chnage....
 
-master
-testing
-again
-again
+Test before manual build
 
 
 

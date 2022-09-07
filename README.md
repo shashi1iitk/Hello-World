@@ -6,7 +6,7 @@ A new change in my mind.
 short change
 This one is another chnage....
 
-Test before manual build
+Test before manual build - No build triggered
 
 
-Test after manual build
+Test after manual build - Build triggered

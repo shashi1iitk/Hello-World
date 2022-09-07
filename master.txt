@@ -1,2 +1,2 @@
-this is master branch
-i'm edit8ing this
+This is the master branch of this repository
+I'm editing this master text file
